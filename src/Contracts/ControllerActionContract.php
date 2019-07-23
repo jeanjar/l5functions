@@ -6,5 +6,5 @@ use Illuminate\Http\Request;
 
 interface ControllerActionContract
 {
-    public function is(Request $request, string $controller, array $actions);
+    public static function is(Request $request, string $controller, array $actions);
 }

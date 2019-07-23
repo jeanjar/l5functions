@@ -16,6 +16,11 @@
             "JeanJar\\LaravelHelpers\\": "src/"
         }
     },
+    "autoload-dev": {
+        "psr-4": {
+            "Tests\\": "tests/"
+        }
+    },
     "authors": [
         {
             "name": "Jean Jar Pereira de Araújo",
