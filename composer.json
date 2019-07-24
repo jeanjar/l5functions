@@ -30,7 +30,7 @@
     "extra": {
         "laravel": {
             "providers": [
-                "JeanJar\\LaravelHelpers\\Http\\Providers\\FunctionServiceProvider"
+                "JeanJar\\LaravelHelpers\\Http\\Providers\\HelperFunctionsServiceProvider"
             ]
         }
     }
