@@ -1,5 +1,5 @@
 {
-    "name": "jeanjar/simple-helper-functions-for-laravel",
+    "name": "jeanjar/l5functions",
     "description": "Helper functions for laravel 5",
     "require": {
         "php" : "^7.2",
